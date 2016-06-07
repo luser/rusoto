@@ -9,11 +9,11 @@ version = "0.1.1"
 
 [build-dependencies.serde_codegen]
 optional = true
-version = "0.7.6"
+version = "0.7.8"
 
 [build-dependencies.syntex]
 optional = true
-version = "0.32.0"
+version = "0.33.0"
 
 [dependencies]
 Inflector = "0.2.0"
@@ -28,7 +28,7 @@ version = "0.0"
 
 [dependencies.serde_codegen]
 optional = true
-version = "0.7.6"
+version = "0.7.8"
 
 [dependencies.serde_macros]
 optional = true
